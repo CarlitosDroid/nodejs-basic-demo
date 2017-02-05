@@ -1,0 +1,16 @@
+{
+  "name": "NodejsBasic",
+  "version": "1.0.0",
+  "description": "Node.js from scratch",
+  "author": "Carlos Vargas <carlosleonardovargashuaman@gmail.com>",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "dependencies": {
+    "express": "^4.13.3"
+  },
+  "devDependencies":{
+    "nodemon": "^1.11.0"
+  }
+}
