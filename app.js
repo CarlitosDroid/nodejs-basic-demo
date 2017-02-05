@@ -8,7 +8,7 @@
  // App
  const app = express();
  app.get('/', function (req, res) {
-   res.send('Este es un servicio GET muy bien ya sabes backend!! xD \n');
+   res.send('quizas funciona \n');
  });
 
  app.listen(PORT);
