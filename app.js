@@ -12,19 +12,5 @@ app.get('/users', function (req, res) {
 });
 
 
-app.get('/windows', function (req, res) {
-  res.send('windows \n');
-
-});
-
-app.get('/animals', function (req, res) {
-  res.send('Este es un servicio animals!! xD \n');
-
-
-app.get('/animals', function (req, res) {
-  res.send('Este es un servicio animals!! xD \n');
-
-});
-
 app.listen(PORT);
 console.log('Running on http://localhost:' + PORT);
