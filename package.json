@@ -1,5 +1,5 @@
 {
-  "name": "NodejsBasic",
+  "name": "prueba",
   "version": "1.0.0",
   "description": "Node.js from scratch",
   "author": "Carlos Vargas <carlosleonardovargashuaman@gmail.com>",
@@ -10,7 +10,19 @@
   "dependencies": {
     "express": "^4.13.3"
   },
-  "devDependencies":{
+  "devDependencies": {
     "nodemon": "^1.11.0"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CarlitosDroid/nodejs-basic-demo.git"
+  },
+  "keywords": [
+    "johncesar1"
+  ],
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CarlitosDroid/nodejs-basic-demo/issues"
+  },
+  "homepage": "https://github.com/CarlitosDroid/nodejs-basic-demo#readme"
 }
